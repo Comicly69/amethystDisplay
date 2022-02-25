@@ -1,0 +1,4 @@
+Hey! I am going to be merging the diplay repo with the main code database because I always forget to update this.
+If you want to see more updates for the diplay and code for the client Please go to https://github.com/Comicly69/AmethystClient
+
+# https://github.com/Comicly69/AmethystClient
